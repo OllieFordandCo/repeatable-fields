@@ -23,7 +23,7 @@
 	"homepage": "http://www.rhyzz.com/repeatable-fields.html",
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/Rhyzz/repeatable-fields.git"
+		"url": "git://github.com/OllieFordandCo/repeatable-fields.git"
 	},
 	"license": "MIT"
 }
